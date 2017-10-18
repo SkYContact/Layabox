@@ -1,0 +1,71 @@
+{
+    "frames": {
+        "btn_LargeTabButton_Left.png": {
+            "frame": {
+                "h": 252,
+                "idx": 0,
+                "w": 200,
+                "x": 206,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 252,
+                "w": 200
+            },
+            "spriteSourceSize": {
+                "h": 252,
+                "w": 200,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_LargeTabButton_Middle.png": {
+            "frame": {
+                "h": 252,
+                "idx": 0,
+                "w": 205,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 252,
+                "w": 205
+            },
+            "spriteSourceSize": {
+                "h": 252,
+                "w": 205,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "btn_LargeTabButton_Right.png": {
+            "frame": {
+                "h": 252,
+                "idx": 0,
+                "w": 200,
+                "x": 407,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 252,
+                "w": 200
+            },
+            "spriteSourceSize": {
+                "h": 252,
+                "w": 200,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    },
+    "meta": {
+        "image": "ButtonTab.png",
+        "prefix": "template/ButtonTab/"
+    }
+}
